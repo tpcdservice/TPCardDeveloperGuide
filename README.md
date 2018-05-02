@@ -1,2 +1,2 @@
-# Introduction
-"# TPCardDeveloperGuide" 
+# 台北卡操作手冊相關說明
+"# 台北卡開發者操作手冊" 
